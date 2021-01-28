@@ -2,11 +2,11 @@
 
 
 
-![IMG_20210125_164514](/home/u/Dokumenty/IMG_20210125_164514-1611704485688.jpg)
+![IMG_20210125_164514](https://i.imgur.com/7luqDPy.jpg)
 
 
 
-![IMG_20210125_164451](/home/u/Dokumenty/IMG_20210125_164451.jpg)
+![IMG_20210125_164451](https://i.imgur.com/7gRrqaP.png)
 
 
 
