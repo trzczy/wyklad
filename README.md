@@ -18,7 +18,7 @@
 * Kurierzy będą puszczani dwójkami
 * Wydajność kurierów średnio 25 listów na godzinę
 * Przewiduje się dowóz listów dla kurierów w terenie
-* Wręczyć kurierom bilet ZTM, podkładkę i listy (co ze zwrotkami i listami)
+* Wydać kurierom bilet ZTM, podkładkę i awiza (co ze zwrotkami i listami)
 * Wspierać kurierów w terenie
 * Sprawdzanie poprawności wypełnienia dokumentów przywiezionych od klientów 
   * zwrotki
